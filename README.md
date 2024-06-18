@@ -59,4 +59,4 @@ Example bar chart of the most common job requirements:
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 ## License
-This project is licensed under the MIT License; see the [LICENSE](https://github.com/JaCar-868/Disease-Progression/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License; see the [LICENSE](https://github.com/JaCar-868/Indeed_Job_Scraping_Analysis/blob/main/LICENSE) file for details.
