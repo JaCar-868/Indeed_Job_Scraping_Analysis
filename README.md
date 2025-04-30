@@ -50,13 +50,6 @@ save_to_csv(requirements): Saves job requirements to a CSV file.
 
 visualize_requirements(word_freq, num_words=20): Visualizes the most common job requirements.
 
-## Example
-Example CSV output file name format:
-
-job_requirements_YYYYMMDD_HHMMSS.csv
-
-Example bar chart of the most common job requirements:
-![image](https://github.com/JaCar-868/Indeed_Job_Scraping_Analysis/assets/172214426/0d1403de-1c54-479f-960f-0873687c51c5)
 
 
 ## Contributing
