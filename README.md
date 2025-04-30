@@ -41,9 +41,13 @@ Display a bar chart of the most common job requirements.
 
 ## Functions
 fetch_job_listings(url): Fetches and parses job listings from Indeed.
+
 extract_job_requirements(soup): Extracts job requirements from parsed HTML.
+
 analyze_requirements(requirements): Processes and analyzes job requirements.
+
 save_to_csv(requirements): Saves job requirements to a CSV file.
+
 visualize_requirements(word_freq, num_words=20): Visualizes the most common job requirements.
 
 ## Example
